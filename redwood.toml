@@ -7,10 +7,8 @@
 
 [web]
   port = 8910
-  apiProxyPath = "/api/src/functions"
+  apiProxyPath = "/.netlify/functions"
 [api]
   port = 8911
 [browser]
   open = true
-[build]
-  functions = "/api/src/functions"
