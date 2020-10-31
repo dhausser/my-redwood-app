@@ -12,3 +12,5 @@
   port = 8911
 [browser]
   open = true
+[build]
+  functions = "/api/src/functions"
